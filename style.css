@@ -1,0 +1,33 @@
+#container{
+	text-align: center;
+	height: auto;
+	width: 50%;
+	margin: 50px auto;
+	padding: 30px;
+	border: 2px solid white;
+	background-image: url("counter-bg.jpg");
+	background-repeat: no-repeat;
+	box-shadow: 1px 1px 2px 2px #000000;
+}
+h1{
+	font-family: sans-serif;
+	font-size: 34px;
+	color: #ffffff;
+}
+.number{
+	font-family: sans-serif;
+	font-size: 130px;
+	color: #006400;
+
+}
+body{
+	background-image: url("counter-bg.jpg");
+	}
+button{
+	background-color: #191970;
+	color: #ffffff;
+	margin-top: 10px;
+	box-shadow: 1px 1px 2px 2px #000000;
+	font-size: small;
+	font-family: sans-serif;
+}
